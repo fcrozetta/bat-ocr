@@ -11,3 +11,12 @@ we have the main loop that will take one screenshot of the entire screen, and us
 
 - pyscreenshot
 - pytesseract
+
+## How to use
+On ubuntu:
+
+```bash
+cd bat-ocr
+source ./ocr-env/bin/activate
+python main.py
+```
